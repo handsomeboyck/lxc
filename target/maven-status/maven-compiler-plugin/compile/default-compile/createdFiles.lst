@@ -1,0 +1,5 @@
+com\lxc\graduation\service\Impl\UserServiceImpl.class
+com\lxc\graduation\GraduationApplication.class
+com\lxc\graduation\controller\UserController.class
+com\lxc\graduation\service\UserService.class
+com\lxc\graduation\entity\domain\User.class
